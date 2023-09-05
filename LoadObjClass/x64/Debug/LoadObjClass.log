@@ -1,0 +1,15 @@
+﻿  LoadObjClass.cpp
+C:\5028CEM\9973075_5028CEM\LoadObjClass\LoadObjClass.cpp(24,110): warning C4091: 'static ': ignored on left of 'object' when no variable is declared
+C:\5028CEM\9973075_5028CEM\LoadObjClass\LoadObjClass.cpp(27,98): warning C4091: 'static ': ignored on left of 'buffer' when no variable is declared
+C:\5028CEM\9973075_5028CEM\LoadObjClass\LoadObjClass.cpp(552,25): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\5028CEM\9973075_5028CEM\LoadObjClass\LoadObjClass.cpp(648,54): warning C4305: '-=': truncation from 'double' to 'float'
+C:\5028CEM\9973075_5028CEM\LoadObjClass\LoadObjClass.cpp(652,53): warning C4305: '+=': truncation from 'double' to 'float'
+soil.lib(SOIL.obj) : warning LNK4099: PDB 'soil.pdb' was not found with 'soil.lib(SOIL.obj)' or at 'C:\5028CEM\9973075_5028CEM\LoadObjClass\x64\Debug\soil.pdb'; linking object as if no debug info
+soil.lib(stb_image_aug.obj) : warning LNK4099: PDB 'soil.pdb' was not found with 'soil.lib(stb_image_aug.obj)' or at 'C:\5028CEM\9973075_5028CEM\LoadObjClass\x64\Debug\soil.pdb'; linking object as if no debug info
+soil.lib(image_helper.obj) : warning LNK4099: PDB 'soil.pdb' was not found with 'soil.lib(image_helper.obj)' or at 'C:\5028CEM\9973075_5028CEM\LoadObjClass\x64\Debug\soil.pdb'; linking object as if no debug info
+soil.lib(image_DXT.obj) : warning LNK4099: PDB 'soil.pdb' was not found with 'soil.lib(image_DXT.obj)' or at 'C:\5028CEM\9973075_5028CEM\LoadObjClass\x64\Debug\soil.pdb'; linking object as if no debug info
+  LoadObjClass.vcxproj -> C:\5028CEM\9973075_5028CEM\LoadObjClass\x64\Debug\LoadObjClass.exe
